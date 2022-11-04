@@ -11,7 +11,7 @@ $ git clone https://github.com/yestamayo/react-motorcycles.git
 
 Change your working directory into the project directory
 ```bash
-$ cd consuming-restful-api-in-react
+$ cd react-motorcycles
 ```
 ## Run
 
