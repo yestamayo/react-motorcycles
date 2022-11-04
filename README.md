@@ -6,7 +6,7 @@ To follow along, this application has been documented as an article on Pusher bl
 ## Set up
 To set up this project, first clone the repository
 ```bash
-$ git clone https://github.com/fisayoafolayan/consuming-restful-api-in-react.git
+$ git clone https://github.com/yestamayo/react-motorcycles.git
 ```
 
 Change your working directory into the project directory
@@ -18,6 +18,10 @@ $ cd consuming-restful-api-in-react
 Install npm modules
 ```bash
 $ npm install
+```
+Install axios
+```bash
+$ npm install axios
 ```
 
 Start the application
